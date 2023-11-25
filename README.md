@@ -47,3 +47,4 @@ Summary: Summarize the overall results of the deep learning model. Include a rec
 
 Overall, I think the deep learning model was around 73% accurate in predicting the classification problem. Using a model with greater correlation between input and output would likely result in higher prediction accuracy. This could be achieved by doing additional data cleanup up front, as well as by using a model with different activation functions and iterating until higher accuracy is reached.
 
+The Google Colab notebook/Jupyter notebook files are in the Starter_Code folder.
